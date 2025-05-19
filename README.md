@@ -12,7 +12,7 @@ To merge models, run the following command:
 ```bash
 bash model_merge/merge.sh
 ```
-##How to Evaluate the Merged Model
+## How to Evaluate the Merged Model
 
 To evaluate the merged model with interview prompts, run:
 
