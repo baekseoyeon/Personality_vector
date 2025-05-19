@@ -1,6 +1,7 @@
 # Personality Vector: Modulating Personality of Large Language Models by Model Merging
 
 ### Personality Vector Project
+![](image/figure1_re.png)
 
 This repository includes scripts for merging models and evaluating them through interview tasks.
 
