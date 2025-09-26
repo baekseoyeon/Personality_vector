@@ -1,5 +1,8 @@
 # Personality Vector: Modulating Personality of Large Language Models by Model Merging
 
+### Paper Link 👉  [![arXiv](https://img.shields.io/badge/arXiv-2509.19727-b31b1b.svg)](https://arxiv.org/abs/2509.19727)
+
+
 ### Personality Vector Project
 ![](image/figure1_git.png)
 
